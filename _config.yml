@@ -52,9 +52,9 @@ menu:
   - title:             About
     url:               /about/
   - title:             Example1
-    url:               /Example1/  
+    url:               /example1/  
   - title:             Example2
-    url:               /Example2/
+    url:               /example2/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
