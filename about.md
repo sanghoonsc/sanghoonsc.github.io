@@ -19,12 +19,15 @@ hide_description: true
 
 ## Personal Data
 ---
-> 1999.05.14 대한민국, 대전시, 대덕구 출생> 연락처: 1235parksh@naver.com
+> 1999.05.14 대한민국, 대전시, 대덕구 출생> 
+
+>연락처: 1235parksh@naver.com
+
 > Github : [https://github.com/khw11044](https://github.com/khw11044) ## Education
 ---
 > Mar.2018 ~ Feb.2024 대학교
 >
-> 사이버보안공학과 (cybersecurity)
+> 사이버보안공학과 (CyberSecurity)
 
 ## Research Interest
 ---
@@ -39,4 +42,4 @@ hide_description: true
 ## Skills and Certification
 ---
 -Language : Python
--Certification : 네트워크 관리사 2급
+>-Certification : 네트워크 관리사 2급
