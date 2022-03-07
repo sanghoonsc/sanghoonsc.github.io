@@ -33,3 +33,17 @@
 .nav-btn-bar { 
    height: 3rem;
 } //상단탭 높이조절
+
+.content .avatar {
+  float: right; //이미지 오른쪽 정렬뜻임 
+  box-sizing: content-box;
+  border: 1rem solid var(--body-bg);
+  transition: border-color 1s ease;
+  margin-top: -1.5rem;
+  margin-right: -1rem;
+} //하단 사진관련 사이즈 조절
+
+.author-body-description{
+  margin-left: 20px !important;
+  margin-top: 20px !important;
+}

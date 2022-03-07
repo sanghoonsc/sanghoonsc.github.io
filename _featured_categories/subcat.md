@@ -10,7 +10,7 @@ description: >
 
 # Subcat
 
-## Kategorie
+## 카테고리
 
 * [Test1]{:.heading.flip-title} ---  이지유패기
 * [Test2]{:.heading.flip-title} ---  황준석 뚜두려 패기
