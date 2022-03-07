@@ -19,11 +19,12 @@ hide_description: true
 
 ## Personal Data
 ---
-> 1999.05.14 대한민국, 대전시, 대덕구 출생> 
+> <1999.05.14 출생> 
 
 >연락처: 1235parksh@naver.com
 
-> Github : [https://github.com/khw11044](https://github.com/khw11044) ## Education
+> Github : [https://github.com/sanghoonsc](https://github.com/sanghoonsc) 
+## Education
 ---
 > Mar.2018 ~ Feb.2024 대학교
 >
