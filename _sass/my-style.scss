@@ -30,12 +30,12 @@
   margin-left: -1px;
 }
 
-.nav-btn-bar { 
+.nav-btn-bar {
    height: 3rem;
 } //상단탭 높이조절
 
 .content .avatar {
-  float: right; //이미지 오른쪽 정렬뜻임 
+  float: right; //이미지 오른쪽 정렬뜻임
   box-sizing: content-box;
   border: 1rem solid var(--body-bg);
   transition: border-color 1s ease;
@@ -46,4 +46,44 @@
 .author-body-description{
   margin-left: 20px !important;
   margin-top: 20px !important;
+}
+
+.content a:not(.btn):not(.no-hover) {
+    text-decoration-color: rgba(156, 15, 16, 0.5);
+} //링크밑줄 색상변경
+
+.markdown-body >ol > li > p > a {
+  font-weight: bold !important;
+  color: rgb(3,102,104) !important;
+
+} //링크 색상변경
+
+.markdown-body {
+  kbd {
+    font-family: monospace;
+    font-size: 15px;
+    color: #555;
+    background-color: #fcfcfc;
+    border: solid 1px #ccc;
+    border-bottom-color: #bbb;
+    border-radius: 3px;
+    box-shadow: inset 0 -1px 0 #bbb;
+    padding: 3px 5px;
+  }
+
+  mark {
+    padding: 3px 5px;
+    background-color: #FFF9C4;
+    font-family: 'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif';
+    font-weight: 500;
+    color: #4f86aa;
+    border-radius: 3px;
+  }
+
+under {
+    text-decoration: underline;
+    text-decoration-color: red !important;
+    text-underline-position:under;
+    padding-bottom : 2px;
+  }
 }
