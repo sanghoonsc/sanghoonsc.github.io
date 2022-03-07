@@ -26,15 +26,16 @@ hide_description: true
 ## Education
 ---
 > Mar.2018 ~ Feb.2024  대학교
->
+
 > 사이버보안공학과 (Cybersecurity engineering)
 ## Research Interest
  
 ---
+-[추가 예정]
 
 ## Awards
 ---
-[추가 예정]
+-[추가 예정]
 
 ## Skills and Certification
 ---
