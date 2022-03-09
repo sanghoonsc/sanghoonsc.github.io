@@ -49,7 +49,7 @@
 }
 
 .content a:not(.btn):not(.no-hover) {
-    text-decoration-color: rgba(156, 15, 16, 0.5);
+    text-decoration-color: rgba(7, 7, 7, 0.5);
 } //링크밑줄 색상변경
 
 .markdown-body >ol > li > p > a {
@@ -86,4 +86,51 @@ under {
     text-underline-position:under;
     padding-bottom : 2px;
   }
+}
+
+.page-control {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.page-control > div {
+  max-width: 50%;
+}.page-control {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.page-control > div {
+  max-width: 50%;
+}
+
+.button {
+  box-shadow:inset 0px 1px 0px 0px #fcfafa;
+  background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+  background-color:#f0e9e9;
+  border-radius:16px;
+  border:3px solid #f7f4f4;
+  display:inline-block;
+  cursor:pointer;
+  color:#706f6f;
+  font-family:Arial;
+  font-size:15px;
+  font-weight:bold;
+  padding:4px 60px;  //버튼 사이즈 높이 길이 조절
+  text-decoration:none;
+  text-shadow:0px 1px 0px #ffffff;
+}
+
+.button:hover {
+  background:linear-gradient(to bottom, #dfebf0 5%, #ffffff 100%);
+  background-color:#fcf7f7;
+}
+
+.button:active {
+  position:relative;
+  top:1px;
 }

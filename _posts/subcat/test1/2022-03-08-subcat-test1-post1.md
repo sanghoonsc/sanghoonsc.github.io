@@ -10,4 +10,4 @@ categories:
   - test1
 ---
 
-{% include youtubePlayer.html id="uBY1AoiF5Vo" %}
+{% include components/youtubePlayer.html id="uBY1AoiF5Vo" %}
