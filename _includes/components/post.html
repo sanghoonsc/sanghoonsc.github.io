@@ -45,7 +45,8 @@
       {% unless no_link_title %}</a>{% endunless %}
       {% assign alt = '' %}
     {% endif %}{% endunless %}
-
+    <!--게시물 생성 hits생성 안함~ 보기좋지않음-->
+   
     {% include components/message.html text=post.description hide=hide_description alt=alt %}
    
   </header>

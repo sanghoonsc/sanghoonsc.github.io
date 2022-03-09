@@ -167,3 +167,7 @@ under {
 .submenu.menu-wrapper.hide{
   display: none;
 }
+
+a::after {
+  display: none !important;
+}
