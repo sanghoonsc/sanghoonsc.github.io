@@ -54,7 +54,7 @@
 
 .markdown-body >ol > li > p > a {
   font-weight: bold !important;
-  color: rgb(3,102,104) !important;
+  color: rgb(11, 12, 12) !important;
 
 } //링크 색상변경
 
@@ -76,7 +76,7 @@
     background-color: #FFF9C4;
     font-family: 'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif';
     font-weight: 500;
-    color: #4f86aa;
+    color: #345a74;
     border-radius: 3px;
   }
 
@@ -133,4 +133,37 @@ under {
 .button:active {
   position:relative;
   top:1px;
+}
+
+//메뉴
+.spread-btn{
+  right: 15%;
+  position: absolute;
+  padding: 0;
+  padding-top: 2px;
+  border: none;
+  background: none;
+  color: white;
+  cursor: pointer;
+  z-index: 1;
+}
+.menu-wrapper {
+  text-align: left;
+  margin-left: 30%;
+}
+.submenu.menu-wrapper{
+  right: 10%;
+  position: absolute;
+  background-color: rgb(34,31,32);
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+  width: 10rem;
+  z-index: 2;
+  ul{
+    margin: 0;
+    padding: 0 1.25rem;
+  }
+}
+.submenu.menu-wrapper.hide{
+  display: none;
 }
