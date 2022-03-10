@@ -7,7 +7,7 @@ sitemap: false
 hide_last_modified: false
 categories:
   - Youtube-p
-  - Aespa
+  - aespa
 ---
 세비지
 
