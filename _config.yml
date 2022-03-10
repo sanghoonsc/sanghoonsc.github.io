@@ -64,8 +64,8 @@ menu:
   - title:          Youtube-p
     url:           /youtube-p/
     submenu:
-      - title:      Espa
-        url:        /espa/
+      - title:      Aespa
+        url:        /Aespa/
       - title:      Stacy
         url:        /stacy/
 
