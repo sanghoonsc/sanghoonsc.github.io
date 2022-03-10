@@ -12,8 +12,8 @@ description: >
 
 ## 그룹명
 
-* [Aspa]{:.heading.flip-title} --- 에스파
+* [Espa]{:.heading.flip-title} --- 에스파
 * [Stacy]{:.heading.flip-title} ---  스테이씨
 
-[Aspa]: /aspa/
+[Espa]: /aspa/
 [Stacy]: /stacy/

@@ -1,8 +1,8 @@
 ---
 layout: list
 category: youtube-p
-bigtitle: Aspa
-slug: aspa
+bigtitle: Espa
+slug: espa
 description: >
   에스파 영상
 
