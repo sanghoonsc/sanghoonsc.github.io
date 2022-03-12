@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 유튜브 영상
+title: WebGoat-PART1
 description: >
-    유튜브 영상
+    WebGoat-PART1
 sitemap: false
 hide_last_modified: false
 categories:
-  - Subcat
-  - test1
+  - WebGoat
+  - mock-hacking
 ---
 스텝백
 
