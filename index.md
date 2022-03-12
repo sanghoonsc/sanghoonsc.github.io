@@ -32,7 +32,7 @@ Github 블로그에 관심사를 공유하고,
 
   <script>
     $(document).ready(function(){
-      $('.me').slick();
+      $('.me').slick({autoplay : true});
     });
   </script>
 
