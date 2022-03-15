@@ -52,8 +52,8 @@ menu:
     url:               /about/
   - title:            Posts
     url:              /posts/  
-  - title:             Example1
-    url:               /example1/
+  - title:             Notice
+    url:               /notice/
   - title:             Python
     url:               /python/
   - title:            WebGoat
@@ -96,7 +96,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+#theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
