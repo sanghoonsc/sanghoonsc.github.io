@@ -25,10 +25,10 @@ title:                 박상훈의 블로그
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  자료 저장 및 공유를 위한 GitBlog
+  개발 및 공유를 위한 GitBlog
 
 # A shorter description for the sidebar.
-tagline:               GitBlog for portfolio
+tagline:               GitBlog
 
 # A list of keywords for your blog
 keywords:              [programming, security, git, gitblog]
