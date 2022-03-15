@@ -26,8 +26,8 @@ Github 블로그에 관심사를 공유하고,
 <div class="me">
     <div><img src= "/assets/me/cheetah1.jpg"></div>
     <div><img src= "/assets/me/cheetah2.jpg"></div>
-    <div><img src= "/assets/me/cheetah3.jpg"></div>
-    <div><img src= "/assets/me/cheetah4.jpg"></div>
+    <!--<div><img src= "/assets/me/cheetah3.jpg"></div>
+    <div><img src= "/assets/me/cheetah4.jpg"></div> 주석처리 추가하려면 풀어 -->
 </div>
 
   <script>
