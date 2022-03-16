@@ -51,7 +51,7 @@ menu:
   - title:             About
     url:               /about/
   - title:            Posts
-    url:              /posts/  
+    url:              /posts/
   - title:             Notice
     url:               /notice/
   - title:             Python
