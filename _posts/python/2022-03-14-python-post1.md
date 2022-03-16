@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 파이썬 기초 데이터타입
+title: 파이썬 기초
 description: >
-    파이썬 기초 데이터타입
+    파이썬 기초
 sitemap: false
 hide_last_modified: false
 categories:
   - python
 ---
 
-# 파이썬 기초 데이터타입
+# 파이썬 완전 기초 모음
 
 * toc
 {:toc .larg-only}
@@ -215,3 +215,13 @@ ex) random.random() 0~1 사이 균등 부동 소수점 값 생성.
 ![python6](/assets/img/python1/python6.PNG)
 
   위의 입력값과 출력값을 비교해보며 이해하도록 하자.
+
+### 4. 변수
+
+  ![python7](/assets/img/python1/python7.PNG)
+
+  직접 이름을 적어가며 사용하는 것 보다, 변수를 이용하여 name 으로 지정해주어
+  더 편리하게 수정 및 입력이 가능하게 된다.
+
+  ![python8](/assets/img/python1/python8.PNG)
+  
