@@ -47,7 +47,7 @@ app.route가 다른 url을 받는 경우를 보고 이해해보자.
 
 ![flask2](/assets/img/flask/flask2.PNG)
 
-이겨우 app.route에 url을 '/haha'로 설정해주어 실행된 url을 확인해 보면 /haha를 확인 해 볼 수있다.
+이경우 app.route에 url을 '/haha'로 설정해주어 실행된 url을 확인해 보면 /haha를 확인 해 볼 수있다.
 
 * 웹해킹 문제에서, app.route()의 url 선언 부분에
 app.route(/admin)를 선언해 admin 정보를 기입해놓기도 하며, 이것을 통해서 admin정보를 탈취하는 문제가 출제되기도 한다.
