@@ -1,12 +1,12 @@
 ---
 layout: post
-title: WebGoat-PART1-1
+title: Dreamhack
 description: >
-    WebGoat-PART1-1
+    Dreamhack
 sitemap: false
 hide_last_modified: false
 categories:
-  - WebGoat
-  - mock-hacking
+  - Hacking
+  - dreamhack
 ---
 테스트입니다

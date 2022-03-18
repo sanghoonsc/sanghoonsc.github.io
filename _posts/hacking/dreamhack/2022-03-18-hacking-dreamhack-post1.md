@@ -1,13 +1,13 @@
 ---
 layout: post
-title: WebGoat-PART1
+title: Dreamhack 1
 description: >
-    WebGoat-PART1
+    Dreamhack 1
 sitemap: false
 hide_last_modified: false
 categories:
-  - WebGoat
-  - mock-hacking
+  - Hacking
+  - dreamhack
 ---
 스텝백
 
