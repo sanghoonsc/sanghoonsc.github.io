@@ -1,8 +1,8 @@
 ---
 layout: list
-category: webgoat
-bigtitle: Mock-Hacking
-slug: mock-hacking
+category: hacking
+bigtitle: DreamHack
+slug: dreamhack
 description: >
   WebGoat-PART1의 목차입니다.
 

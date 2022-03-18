@@ -56,13 +56,13 @@ menu:
     url:               /notice/
   - title:             Python
     url:               /python/
-  - title:            WebGoat
-    url:              /webgoat/
+  - title:            Hacking
+    url:              /hacking/
     submenu:
-      - title:      Mock-Hacking
-        url:        /mock-hacking/
-      - title:      Mock-Hacking2
-        url:        /mock-hacking2/
+      - title:      Dreamhack
+        url:        /dreamhack/
+      - title:      Dictionary
+        url:        /dictionary/
   - title:          Youtube-p
     url:           /youtube-p/
     submenu:
