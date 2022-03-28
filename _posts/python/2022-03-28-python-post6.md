@@ -102,10 +102,10 @@ range(5) #range(0, 5) – 0, 1, 2, 3, 4
 ```jsx
 for 변수 in range(a,b):           ex) a = [1]
 <수행할 명령>                         for i in range(2, 4):
-																	   	   a.append(i)
+					  a.append(i)
                                       print(a) #[1, 2, 3]  
 
-																	#이하는 출력값을 나타냅니다.
+  			    	#이하는 출력값을 나타냅니다.
 ```
 
 ### for-range ll
@@ -116,10 +116,10 @@ for 변수 in range(a,b):           ex) a = [1]
 ```jsx
 or 변수 in range(a):           ex) count = 0
 <수행할 명령>                       for i in range(10):
-																		 count = count + 1
-																	 print(count) 	 #10
+				     count = count + 1
+				    print(count) 	 #10
 
-																	#이하는 출력값을 나타냅니다.
+				#이하는 출력값을 나타냅니다.
 ```
 
 ## while문
@@ -137,9 +137,9 @@ or 변수 in range(a):           ex) count = 0
 ```jsx
 while 조건:              ex) i = 5
 <수행할 명령>                 while i >0:
-																print(i)
-																i = i - 1
-														  print(“Launch!”) # 5 4 3 2 1  Launch!
+				print(i)
+				i = i - 1
+			      print(“Launch!”) # 5 4 3 2 1  Launch!
 
                               #이하는 출력값을 나타냅니다.
 ```
