@@ -1,3 +1,13 @@
+---
+layout: post
+title: 파이썬 기초
+description: >
+    파이썬 기초
+sitemap: false
+hide_last_modified: false
+categories:
+  - python
+---
 # 1- 파이썬 기초, 기초 자료형
 
 Created: 2022년 3월 29일 오전 3:22
