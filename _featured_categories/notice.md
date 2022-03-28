@@ -10,8 +10,8 @@ slug: notice
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
- 메뉴1 예시
- 
+ notice note
+
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
