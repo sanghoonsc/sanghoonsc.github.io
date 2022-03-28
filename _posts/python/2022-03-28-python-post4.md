@@ -11,7 +11,8 @@ categories:
 
 # 2- 파이썬 조건문
 
-
+* toc
+{:toc .larg-only}
 
 ## 목표
 
