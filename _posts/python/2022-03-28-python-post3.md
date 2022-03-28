@@ -10,6 +10,8 @@ categories:
 ---
 # 1- 파이썬 기초, 기초 자료형
 
+* toc
+{:toc .larg-only}
 
 
 ## 목표
