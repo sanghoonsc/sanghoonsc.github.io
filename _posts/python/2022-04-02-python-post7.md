@@ -8,13 +8,14 @@ hide_last_modified: false
 categories:
   - python
 ---
-# 1~4 내용 예시 문제 풀이
+# 1~4 내용 예시 문제 풀#
 
 * toc
 {:toc .larg-only}
 
+# 1~4 내용 예시 문제 풀이
 
-### 1. 문제
+## 1. 문제
 
 ![titled4](/assets/img/python3/titled4.png)
 ### 답
@@ -41,7 +42,7 @@ len(sentence)의 값을 반으로 나누어 중간을 찾아 B에 저장한다.
 ## 2. 문제
 
 ![titled5](/assets/img/python3/titled5.png)
-## 답
+### 답
 
 ```jsx
 i= int(input())
@@ -73,7 +74,7 @@ input(10)
 
 그 두 값의 결과의 차(-)의 값을 f로 두고 출력한다.
 
-### 3. 문제
+## 3. 문제
 
 ![titled6](/assets/img/python3/titled6.png)
 ### 답
@@ -112,7 +113,7 @@ i값을 반복문 마지막 부분에서 새로 받아주게 해준다.
 
 0값이 입력되면 반복문은 종료된다.
 
-### 4. 문제
+## 4. 문제
 
 ![titled7](/assets/img/python3/titled7.png)
 ### 답
