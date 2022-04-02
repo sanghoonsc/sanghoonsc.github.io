@@ -9,7 +9,7 @@ categories:
   - python
 ---
 
-# 6. 함수와 메서드
+# 6- 함수와 메서드
 
 * toc
 {:toc .larg-only}
