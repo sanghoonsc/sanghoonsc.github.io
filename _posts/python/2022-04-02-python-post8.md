@@ -10,7 +10,7 @@ categories:
 ---
 
 
-# 5- 기초자료형 II
+# 5- 파이썬 기초자료형 II
 
 * toc
 {:toc .larg-only}

@@ -8,7 +8,7 @@ hide_last_modified: false
 categories:
   - python
 ---
-# 1~4 내용 예시 문제 풀이
+# 파이썬 1~4 내용 예시 문제 풀이
 
 * toc
 {:toc .larg-only}
