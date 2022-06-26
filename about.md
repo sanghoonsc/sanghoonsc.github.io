@@ -43,4 +43,4 @@ hide_description: true
 ## Skills and Certification
 ---
 -Language : Python
->-Certification : 네트워크 관리사 2급
+>-Certification : 정보처리기사, 네트워크 관리사 2급
