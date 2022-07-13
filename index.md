@@ -23,17 +23,17 @@ Github 블로그에 관심사를 공유하고,
 >   <a>__security vulnerability diagnosis, mock hacking, security consulting__</a>
 
 
-<div class="me">
+<!--<div class="me">
     <div><img src= "/assets/me/cheetah1.jpg"></div>
     <div><img src= "/assets/me/cheetah2.jpg"></div>
-    <!--<div><img src= "/assets/me/cheetah3.jpg"></div>
-    <div><img src= "/assets/me/cheetah4.jpg"></div> 주석처리 추가하려면 풀어 -->
-</div>
+    <<div><img src= "/assets/me/cheetah3.jpg"></div>
+    <div><img src= "/assets/me/cheetah4.jpg"></div> 주석처리 추가하려면 풀어
+</div> 사진 넣으려면 주석 풀고 사진경로 설정하면됨-->
 
-  <script>
+  <!-- <script>
     $(document).ready(function(){
       $('.me').slick({autoplay : true});
     });
-  </script>
+  </script> -->
 
 ---
